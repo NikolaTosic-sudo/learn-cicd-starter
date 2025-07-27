@@ -39,8 +39,8 @@ func TestGetAPIKey(t *testing.T) {
 		},
 		{
 			name:    "extra spaces",
-			header:  "ApiKey my-secret-key",
-			wantKey: "my-secret-key",
+			header:  "ApiKey my-secret-keyy",
+			wantKey: "my-secret-keyy",
 			wantErr: nil,
 		},
 	}
