@@ -1,4 +1,4 @@
-![Passed all the tests](https://github.com/NikolaTosic-sudo/learn-cicd-starter/actions/workflows/ci/badge.svg)
+![Passed all the tests](https://github.com/NikolaTosic-sudo/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
